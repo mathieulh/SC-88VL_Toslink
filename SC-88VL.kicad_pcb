@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 7)
+    (drawings 10)
     (tracks 199)
     (zones 0)
     (modules 14)
@@ -711,6 +711,15 @@
     )
   )
 
+  (gr_text GND (at 123.19 78.74) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text VCC (at 123.19 73.66) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text DATA (at 123.19 68.58) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
   (gr_text "Revision 4" (at 69.85 90.17) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.25)))
   )
