@@ -18,5 +18,5 @@ item	required | quantity |	explanation
 * Electrolytic capacitor (10μF to 33μF) | 1 | for power stabilization
 * Multilayer Ceramic Capacitor (0.1μF) | about 2 pieces | for power stabilization
 
-![PCB Preview](https://user-images.githubusercontent.com/203427/142281312-02bb237e-70db-412a-82ff-85a5fc897518.png)
-![PCB Preview2](https://user-images.githubusercontent.com/203427/142281443-fda0ec5f-80d4-443e-8d24-6d57d6d0f92a.png)
+![PCB Preview](https://user-images.githubusercontent.com/203427/142282810-472993bc-96fc-4b2e-91e1-ac6e0e817351.png)
+![PCB Preview2](https://user-images.githubusercontent.com/203427/142282817-3521b902-4705-4323-815c-817b01398779.png)
