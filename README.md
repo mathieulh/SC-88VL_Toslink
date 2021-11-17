@@ -13,7 +13,7 @@ item	required | quantity |	explanation
 * TC9231N |	1 |	DIGITAL AUDIO IC
 * 74HC04 | 1 | GENERAL-PURPOSE ICS
 * 74HC74 | 1 | GENERAL-PURPOSE ICS
-* Generic TOSLINK TX OR a TOTX170 compatible TOSLINK TX  | 1 | optical connectors for output 
+* Generic TOSLINK TX, OR a TOTX170 compatible TOSLINK TX  | 1 | optical connectors for output 
 * 2-contact switch | 1 | For +6dB switching
 * Electrolytic capacitor (10μF to 33μF) | 1 | for power stabilization
 * Multilayer Ceramic Capacitor (0.1μF) | about 2 pieces | for power stabilization
