@@ -2,7 +2,10 @@
 TOSLINK PCB for the Roland SC-88VL
 
 
-This is a PCB based on the diagram available here: http://www3.big.or.jp/~fujikko/sc88vl/kaizo.html
+This is a PCB based on the diagram available here: https://web.archive.org/web/20030419115215/http://plaza17.mbn.or.jp/~uyo/special/soundcrd/sc88.htm
+
+A page detailing an installation on a SC-88VL also exists
+http://www3.big.or.jp/~fujikko/sc88vl/kaizo.html
 
 Bill Of Materials
 
