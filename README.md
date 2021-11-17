@@ -7,6 +7,12 @@ This is a PCB based on the diagram available here: https://web.archive.org/web/2
 A page detailing an installation on a SC-88VL also exists
 http://www3.big.or.jp/~fujikko/sc88vl/kaizo.html
 
+While this board may also work on the SC-88Pro it is untested.
+For those who wish to mod their SC-88Pro with Digital output, there is another page detailing the process here: 
+
+https://web.archive.org/web/20021101100126/http://www.ne.jp/asahi/fa/efu/sc88p/sc88p_in.html
+
+
 Bill Of Materials
 
 item	required | quantity |	explanation
