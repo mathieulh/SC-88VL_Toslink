@@ -25,4 +25,5 @@ item	required | quantity |	explanation
 * Multilayer Ceramic Capacitor (0.1μF) | about 2 pieces | for power stabilization
 
 ![PCB Preview](https://user-images.githubusercontent.com/203427/142282810-472993bc-96fc-4b2e-91e1-ac6e0e817351.png)
-![PCB Preview2](https://user-images.githubusercontent.com/203427/142282817-3521b902-4705-4323-815c-817b01398779.png)
+![image](https://user-images.githubusercontent.com/203427/142450422-812eefd1-474a-4629-b623-1a37784cc45f.png)
+
